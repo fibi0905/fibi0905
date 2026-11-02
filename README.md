@@ -22,6 +22,7 @@ Sono una persona curiosa, precisa e sempre aperta a nuove esperienze che mi perm
 
 In questo profilo GitHub condivido i miei progetti universitari e personali, con l'obiettivo di migliorarmi continuamente e sperimentare nuove tecnologie.
 
+<br></br>
 
 ---
 
