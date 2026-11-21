@@ -8,6 +8,9 @@
 Computer Science student with a strong interest in software engineering, project management and IT infrastructures. Passionate about designing scalable solutions, leading projects and continuously expanding my technical and organizational skills.
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://cloudnic.cv) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TUO-USERNAME)
+
 </div>
 
 <br></br>
@@ -21,6 +24,7 @@ Sono uno studente di Informatica appassionato di sviluppo software, problem solv
 Sono una persona curiosa, precisa e sempre aperta a nuove esperienze che mi permettano di crescere sia dal punto di vista tecnico che personale. Il mio obiettivo è costruire un percorso professionale che mi porti a ricoprire il ruolo di **Project Manager**, combinando competenze tecniche, organizzative e di leadership.
 
 In questo profilo GitHub condivido i miei progetti universitari e personali, con l'obiettivo di migliorarmi continuamente e sperimentare nuove tecnologie.
+
 
 <br></br>
 
