@@ -52,6 +52,7 @@ Si tratta di un'infrastruttura domestica completamente self-hosted progettata e 
 
 Attraverso questo progetto ho consolidato competenze in **Linux**, **Networking**, **Virtualizzazione**, **Docker**, **Python**, **TypeScript**, **MariaDB**, **System Administration** e **Cyber Security**, applicandole in un ambiente reale e in continua evoluzione.
 
+> [!IMPORTANT]
 >**Repository:**  
 > https://github.com/fibi0905/Home-Network-Infrastructure
 
