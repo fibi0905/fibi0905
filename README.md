@@ -46,15 +46,15 @@ In questo profilo GitHub condivido i miei progetti universitari e personali, con
 
 # 🚀 Featured Project
 
-**Home-Network-Infrastructure** è il progetto che rappresenta maggiormente il mio approccio allo sviluppo software e alla progettazione di infrastrutture IT.
+**EasyBank Design** rappresenta il mio approccio all'analisi e alla progettazione del software, con particolare attenzione alla produzione di documentazione tecnica chiara, strutturata e conforme ai principi della Software Engineering.
 
-Si tratta di un'infrastruttura domestica completamente self-hosted progettata e realizzata da zero, nella quale Raspberry Pi e Proxmox collaborano per fornire servizi di rete, virtualizzazione e applicazioni web. Il progetto integra soluzioni come DNS e DHCP centralizzati, VPN WireGuard, Reverse Proxy con HTTPS, Nextcloud, servizi web personalizzati e applicazioni sviluppate internamente, con particolare attenzione alla sicurezza, all'automazione e alla gestione dell'infrastruttura.
+Il repository raccoglie la documentazione completa del progetto **EasyBank**, includendo **Use Case Diagram**, **Use Case Specifications** e **System Sequence Diagrams (SSD)**. Ogni funzionalità viene analizzata e descritta attraverso diagrammi UML e documentazione tecnica, seguendo un processo di progettazione strutturato e facilmente estendibile.
 
-Attraverso questo progetto ho consolidato competenze in **Linux**, **Networking**, **Virtualizzazione**, **Docker**, **Python**, **TypeScript**, **MariaDB**, **System Administration** e **Cyber Security**, applicandole in un ambiente reale e in continua evoluzione.
+Attraverso questo progetto ho consolidato competenze in **Software Engineering**, **Requirement Analysis**, **UML Modeling**, **Technical Documentation**, **System Design** e **Software Analysis**, utilizzando strumenti professionali per la modellazione e la documentazione del software.
 
 > [!IMPORTANT]
->**Repository:**  
-> https://github.com/fibi0905/Home-Network-Infrastructure
+> **Repository:**  
+> https://github.com/fibi0905/EasyBank-Design
 
 <br></br>
 
@@ -95,6 +95,8 @@ Attraverso questo progetto ho consolidato competenze in **Linux**, **Networking*
 ### Documentation
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-8E44AD?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 ![License Management](https://img.shields.io/badge/License_Management-009688?style=for-the-badge)
